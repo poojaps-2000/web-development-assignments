@@ -1,0 +1,27 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  background-color: #011627;
+  text-align: center;
+  border: 60px solid #2EC4B6;
+  border-top:0px;
+  margin:0px;
+}
+
+p{
+  padding: 0% 20% 0% 20%;
+}
+#sub{
+  border-color: blue;
+  background-color: #FF9F1C;
+  width: 140px;
+  height: 80px;
+  border-radius: 20px;
+  font-size: 1.2em;
+  margin-top: 12px;
+}
+
+#fn,#ln,#em{
+  width: 250px;
+  height: 29px;
+}
